@@ -19,9 +19,6 @@ analyzing logs, identifying abnormal activity, and documenting corrective action
 - Log analysis (syslog, auth.log, journalctl)
 - stress-ng for incident simulation
 
-## Architecture Diagram
-![Block Diagram](diagrams/cloudops_block_diagram.png)
-
 ## Key Learnings
 - Importance of monitoring before troubleshooting
 - Manual log analysis for incident detection
@@ -29,4 +26,4 @@ analyzing logs, identifying abnormal activity, and documenting corrective action
 - CloudOps and DevOps operational mindset
 
 ## Author
-Your Name
+Shreya V
